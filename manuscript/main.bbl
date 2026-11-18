@@ -1,0 +1,287 @@
+\begin{thebibliography}{26}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Agres et~al.(2023)Agres, Dash and Chua}]{agres2023affectmachine}
+\bibinfo{author}{Agres, K.R.}, \bibinfo{author}{Dash, A.},
+  \bibinfo{author}{Chua, P.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{AffectMachine-Classical}: a novel system for
+  generating affective classical music}.
+\newblock \bibinfo{journal}{Frontiers in Psychology} \bibinfo{volume}{14},
+  \bibinfo{pages}{1158172}.
+\newblock \DOIprefix\doi{10.3389/fpsyg.2023.1158172}.
+%Type = Article
+\bibitem[{Agres et~al.(2025)Agres, Dash, Chua and
+  Ehrlich}]{agres2025affectmachine}
+\bibinfo{author}{Agres, K.R.}, \bibinfo{author}{Dash, A.},
+  \bibinfo{author}{Chua, P.}, \bibinfo{author}{Ehrlich, S.K.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{{AffectMachine-Pop}: A controllable expert system for
+  real-time pop music generation}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2506.08200v1} .
+%Type = Article
+\bibitem[{Azevedo et~al.(2017)Azevedo, Bennett, Bilicki, Hooper, Markopoulou
+  and Tsakiris}]{azevedo2017calming}
+\bibinfo{author}{Azevedo, R.T.}, \bibinfo{author}{Bennett, N.},
+  \bibinfo{author}{Bilicki, A.}, \bibinfo{author}{Hooper, J.},
+  \bibinfo{author}{Markopoulou, F.}, \bibinfo{author}{Tsakiris, M.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{The calming effect of a new wearable device during
+  the anticipation of public speech}.
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{7},
+  \bibinfo{pages}{2285}.
+\newblock \DOIprefix\doi{10.1038/s41598-017-02274-2}.
+%Type = Article
+\bibitem[{Chen et~al.(2023)Chen, Wang, Huang, Hu, Shen and
+  Zhang}]{chen2023large}
+\bibinfo{author}{Chen, J.}, \bibinfo{author}{Wang, X.}, \bibinfo{author}{Huang,
+  C.}, \bibinfo{author}{Hu, X.}, \bibinfo{author}{Shen, X.},
+  \bibinfo{author}{Zhang, D.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{A large finer-grained affective computing {EEG}
+  dataset}.
+\newblock \bibinfo{journal}{Scientific Data} \bibinfo{volume}{10},
+  \bibinfo{pages}{740}.
+\newblock \DOIprefix\doi{10.1038/s41597-023-02650-w}.
+%Type = Article
+\bibitem[{Daly et~al.(2016)Daly, Williams, Kirke, Weaver, Malik, Hwang, Miranda
+  and Nasuto}]{daly2016affective}
+\bibinfo{author}{Daly, I.}, \bibinfo{author}{Williams, D.},
+  \bibinfo{author}{Kirke, A.}, \bibinfo{author}{Weaver, J.},
+  \bibinfo{author}{Malik, A.}, \bibinfo{author}{Hwang, F.},
+  \bibinfo{author}{Miranda, E.}, \bibinfo{author}{Nasuto, S.J.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Affective brain--computer music interfacing}.
+\newblock \bibinfo{journal}{Journal of Neural Engineering}
+  \bibinfo{volume}{13}, \bibinfo{pages}{046022}.
+\newblock \DOIprefix\doi{10.1088/1741-2560/13/4/046022}.
+%Type = Article
+\bibitem[{Ehrlich et~al.(2019)Ehrlich, Agres, Guan and
+  Cheng}]{ehrlich2019closed}
+\bibinfo{author}{Ehrlich, S.K.}, \bibinfo{author}{Agres, K.R.},
+  \bibinfo{author}{Guan, C.}, \bibinfo{author}{Cheng, G.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{A closed-loop, music-based brain-computer interface
+  for emotion mediation}.
+\newblock \bibinfo{journal}{PLoS ONE} \bibinfo{volume}{14},
+  \bibinfo{pages}{e0213516}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0213516}.
+%Type = Article
+\bibitem[{Ewing et~al.(2016)Ewing, Fairclough and
+  Gilleade}]{ewing2016evaluation}
+\bibinfo{author}{Ewing, K.C.}, \bibinfo{author}{Fairclough, S.H.},
+  \bibinfo{author}{Gilleade, K.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Evaluation of an adaptive game that uses {EEG}
+  measures validated during the design process as inputs to a biocybernetic
+  loop}.
+\newblock \bibinfo{journal}{Frontiers in Human Neuroscience}
+  \bibinfo{volume}{10}, \bibinfo{pages}{223}.
+\newblock \DOIprefix\doi{10.3389/fnhum.2016.00223}.
+%Type = Article
+\bibitem[{Fekri~Azgomi and Faghih(2022)}]{azgomi2022enhancement}
+\bibinfo{author}{Fekri~Azgomi, H.}, \bibinfo{author}{Faghih, R.T.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Enhancement of closed-loop cognitive stress
+  regulation using supervised control architectures}.
+\newblock \bibinfo{journal}{IEEE Open Journal of Engineering in Medicine and
+  Biology} \bibinfo{volume}{3}, \bibinfo{pages}{7--17}.
+\newblock \DOIprefix\doi{10.1109/OJEMB.2022.3143686}.
+%Type = Article
+\bibitem[{Fern{\'a}ndez-Aguilar et~al.(2019)Fern{\'a}ndez-Aguilar,
+  Navarro-Bravo, Ricarte, Ros and Latorre}]{fernandez2019effective}
+\bibinfo{author}{Fern{\'a}ndez-Aguilar, L.}, \bibinfo{author}{Navarro-Bravo,
+  B.}, \bibinfo{author}{Ricarte, J.}, \bibinfo{author}{Ros, L.},
+  \bibinfo{author}{Latorre, J.M.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{How effective are films in inducing positive and
+  negative emotional states? {A} meta-analysis}.
+\newblock \bibinfo{journal}{PLoS ONE} \bibinfo{volume}{14},
+  \bibinfo{pages}{e0225040}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0225040}.
+%Type = Article
+\bibitem[{Gross and Levenson(1995)}]{gross1995emotion}
+\bibinfo{author}{Gross, J.J.}, \bibinfo{author}{Levenson, R.W.},
+  \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{Emotion elicitation using films}.
+\newblock \bibinfo{journal}{Cognition and Emotion} \bibinfo{volume}{9},
+  \bibinfo{pages}{87--108}.
+\newblock \DOIprefix\doi{10.1080/02699939508408966}.
+%Type = Article
+\bibitem[{Gutierrez~Maestro et~al.(2025)Gutierrez~Maestro, Banaee and
+  Loutfi}]{gutierrez2025affective}
+\bibinfo{author}{Gutierrez~Maestro, E.}, \bibinfo{author}{Banaee, H.},
+  \bibinfo{author}{Loutfi, A.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Affective priming score: A data-driven method to
+  detect priming in sequential datasets}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2506.20204v1} .
+%Type = Article
+\bibitem[{Khazaei et~al.(2024)Khazaei, Amin, Tahir and
+  Faghih}]{khazaei2024bayesian}
+\bibinfo{author}{Khazaei, S.}, \bibinfo{author}{Amin, M.R.},
+  \bibinfo{author}{Tahir, M.}, \bibinfo{author}{Faghih, R.T.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Bayesian inference of hidden cognitive performance
+  and arousal states in presence of music}.
+\newblock \bibinfo{journal}{IEEE Open Journal of Engineering in Medicine and
+  Biology} \bibinfo{volume}{5}, \bibinfo{pages}{627--636}.
+\newblock \DOIprefix\doi{10.1109/OJEMB.2024.3377923}.
+%Type = Article
+\bibitem[{Koelstra et~al.(2012)Koelstra, M{\"u}hl, Soleymani, Lee, Yazdani,
+  Ebrahimi, Pun, Nijholt and Patras}]{koelstra2012deap}
+\bibinfo{author}{Koelstra, S.}, \bibinfo{author}{M{\"u}hl, C.},
+  \bibinfo{author}{Soleymani, M.}, \bibinfo{author}{Lee, J.S.},
+  \bibinfo{author}{Yazdani, A.}, \bibinfo{author}{Ebrahimi, T.},
+  \bibinfo{author}{Pun, T.}, \bibinfo{author}{Nijholt, A.},
+  \bibinfo{author}{Patras, I.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{DEAP}: A database for emotion analysis; using
+  physiological signals}.
+\newblock \bibinfo{journal}{IEEE Transactions on Affective Computing}
+  \bibinfo{volume}{3}, \bibinfo{pages}{18--31}.
+\newblock \DOIprefix\doi{10.1109/T-AFFC.2011.15}.
+%Type = Article
+\bibitem[{Li et~al.(2025)Li, Wang and Whang}]{li2025designing}
+\bibinfo{author}{Li, X.}, \bibinfo{author}{Wang, R.}, \bibinfo{author}{Whang,
+  M.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Designing light for emotion: A neurophysiological
+  approach to modeling affective responses to the interplay of color and
+  illuminance}.
+\newblock \bibinfo{journal}{Biomimetics} \bibinfo{volume}{10},
+  \bibinfo{pages}{696}.
+\newblock \DOIprefix\doi{10.3390/biomimetics10100696}.
+%Type = Article
+\bibitem[{Lorenz et~al.(2016)Lorenz, Monti, Violante, Anagnostopoulos, Faisal,
+  Montana and Leech}]{lorenz2016automatic}
+\bibinfo{author}{Lorenz, R.}, \bibinfo{author}{Monti, R.P.},
+  \bibinfo{author}{Violante, I.R.}, \bibinfo{author}{Anagnostopoulos, C.},
+  \bibinfo{author}{Faisal, A.A.}, \bibinfo{author}{Montana, G.},
+  \bibinfo{author}{Leech, R.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{The automatic neuroscientist: A framework for
+  optimizing experimental design with closed-loop real-time {fMRI}}.
+\newblock \bibinfo{journal}{NeuroImage} \bibinfo{volume}{129},
+  \bibinfo{pages}{320--334}.
+\newblock \DOIprefix\doi{10.1016/j.neuroimage.2016.01.032}.
+%Type = Article
+\bibitem[{Mar{\'i}n-Morales et~al.(2018)Mar{\'i}n-Morales, Higuera-Trujillo,
+  Greco, Guixeres, Llinares, Scilingo, Alca{\~n}iz and
+  Valenza}]{marin2018affective}
+\bibinfo{author}{Mar{\'i}n-Morales, J.}, \bibinfo{author}{Higuera-Trujillo,
+  J.L.}, \bibinfo{author}{Greco, A.}, \bibinfo{author}{Guixeres, J.},
+  \bibinfo{author}{Llinares, C.}, \bibinfo{author}{Scilingo, E.P.},
+  \bibinfo{author}{Alca{\~n}iz, M.}, \bibinfo{author}{Valenza, G.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Affective computing in virtual reality: emotion
+  recognition from brain and heartbeat dynamics using wearable sensors}.
+\newblock \bibinfo{journal}{Scientific Reports} \bibinfo{volume}{8},
+  \bibinfo{pages}{13657}.
+\newblock \DOIprefix\doi{10.1038/s41598-018-32063-4}.
+%Type = Article
+\bibitem[{P{\'a}lfi et~al.(2024)P{\'a}lfi, Major, Horv{\'a}th-Sarr{\'o}di,
+  De{\'a}k, Feh{\'e}r and G{\'a}cs}]{palfi2024adaptive}
+\bibinfo{author}{P{\'a}lfi, K.}, \bibinfo{author}{Major, J.},
+  \bibinfo{author}{Horv{\'a}th-Sarr{\'o}di, A.}, \bibinfo{author}{De{\'a}k,
+  A.}, \bibinfo{author}{Feh{\'e}r, G.}, \bibinfo{author}{G{\'a}cs, B.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Adaptive emotion regulation might prevent burnout in
+  emergency healthcare professionals: an exploratory study}.
+\newblock \bibinfo{journal}{BMC Public Health} \bibinfo{volume}{24},
+  \bibinfo{pages}{3136}.
+\newblock \DOIprefix\doi{10.1186/s12889-024-20547-0}.
+%Type = Article
+\bibitem[{Pohlmeyer et~al.(2014)Pohlmeyer, Mahmoudi, Geng, Prins and
+  Sanchez}]{pohlmeyer2014using}
+\bibinfo{author}{Pohlmeyer, E.A.}, \bibinfo{author}{Mahmoudi, B.},
+  \bibinfo{author}{Geng, S.}, \bibinfo{author}{Prins, N.W.},
+  \bibinfo{author}{Sanchez, J.C.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Using reinforcement learning to provide stable
+  brain-machine interface control despite neural input reorganization}.
+\newblock \bibinfo{journal}{PLoS ONE} \bibinfo{volume}{9},
+  \bibinfo{pages}{e87253}.
+\newblock \DOIprefix\doi{10.1371/journal.pone.0087253}.
+%Type = Article
+\bibitem[{Ramirez et~al.(2015)Ramirez, Palencia-Lefler, Giraldo and
+  Vamvakousis}]{ramirez2015musical}
+\bibinfo{author}{Ramirez, R.}, \bibinfo{author}{Palencia-Lefler, M.},
+  \bibinfo{author}{Giraldo, S.}, \bibinfo{author}{Vamvakousis, Z.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Musical neurofeedback for treating depression in
+  elderly people}.
+\newblock \bibinfo{journal}{Frontiers in Neuroscience} \bibinfo{volume}{9},
+  \bibinfo{pages}{354}.
+\newblock \DOIprefix\doi{10.3389/fnins.2015.00354}.
+%Type = Article
+\bibitem[{Russell(1980)}]{russell1980circumplex}
+\bibinfo{author}{Russell, J.A.}, \bibinfo{year}{1980}.
+\newblock \bibinfo{title}{A circumplex model of affect}.
+\newblock \bibinfo{journal}{Journal of Personality and Social Psychology}
+  \bibinfo{volume}{39}, \bibinfo{pages}{1161--1178}.
+\newblock \DOIprefix\doi{10.1037/h0077714}.
+%Type = Article
+\bibitem[{Saganowski et~al.(2022)Saganowski, Komoszy{\'n}ska, Behnke, Perz,
+  Kunc, Klich, Kaczmarek and Kazienko}]{saganowski2022emognition}
+\bibinfo{author}{Saganowski, S.}, \bibinfo{author}{Komoszy{\'n}ska, J.},
+  \bibinfo{author}{Behnke, M.}, \bibinfo{author}{Perz, B.},
+  \bibinfo{author}{Kunc, D.}, \bibinfo{author}{Klich, B.},
+  \bibinfo{author}{Kaczmarek, {\L}.D.}, \bibinfo{author}{Kazienko, P.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Emognition dataset: emotion recognition with
+  self-reports, facial expressions, and physiology using wearables}.
+\newblock \bibinfo{journal}{Scientific Data} \bibinfo{volume}{9},
+  \bibinfo{pages}{158}.
+\newblock \DOIprefix\doi{10.1038/s41597-022-01262-0}.
+%Type = Article
+\bibitem[{Sayal et~al.(2025)Sayal, Direito, Sousa, Singer and
+  Castelo-Branco}]{sayal2025music}
+\bibinfo{author}{Sayal, A.}, \bibinfo{author}{Direito, B.},
+  \bibinfo{author}{Sousa, T.}, \bibinfo{author}{Singer, N.},
+  \bibinfo{author}{Castelo-Branco, M.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Music in the loop: a systematic review of current
+  neurofeedback methodologies using music}.
+\newblock \bibinfo{journal}{Frontiers in Neuroscience} \bibinfo{volume}{19},
+  \bibinfo{pages}{1515377}.
+\newblock \DOIprefix\doi{10.3389/fnins.2025.1515377}.
+%Type = Article
+\bibitem[{Steinert and Friedrich(2020)}]{steinert2020wired}
+\bibinfo{author}{Steinert, S.}, \bibinfo{author}{Friedrich, O.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Wired emotions: Ethical issues of affective
+  brain--computer interfaces}.
+\newblock \bibinfo{journal}{Science and Engineering Ethics}
+  \bibinfo{volume}{26}, \bibinfo{pages}{351--367}.
+\newblock \DOIprefix\doi{10.1007/s11948-019-00087-2}.
+%Type = Article
+\bibitem[{Wu et~al.(2023)Wu, Lu, Hu and Zeng}]{wu2023affective}
+\bibinfo{author}{Wu, D.}, \bibinfo{author}{Lu, B.L.}, \bibinfo{author}{Hu, B.},
+  \bibinfo{author}{Zeng, Z.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{Affective brain--computer interfaces ({aBCIs}): A
+  tutorial}.
+\newblock \bibinfo{journal}{Proceedings of the IEEE} \bibinfo{volume}{111},
+  \bibinfo{pages}{1314--1332}.
+\newblock \DOIprefix\doi{10.1109/JPROC.2023.3277471}.
+%Type = Article
+\bibitem[{Zhang et~al.(2026a)Zhang, Qian, Coyle, Dangana and
+  Metcalfe}]{zhang2026closed}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Qian, K.},
+  \bibinfo{author}{Coyle, D.}, \bibinfo{author}{Dangana, M.},
+  \bibinfo{author}{Metcalfe, B.}, \bibinfo{year}{2026}a.
+\newblock \bibinfo{title}{Closed-loop {EEG}-based neurofeedback and
+  brain-computer interface interventions for mental health: a review}.
+\newblock \bibinfo{journal}{Frontiers in Neuroscience} \bibinfo{volume}{20},
+  \bibinfo{pages}{1914165}.
+\newblock \DOIprefix\doi{10.3389/fnins.2026.1914165}.
+%Type = Article
+\bibitem[{Zhang et~al.(2026b)Zhang, Sun, Gu and Jin}]{zhang2026mindmelody}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Sun, Y.}, \bibinfo{author}{Gu,
+  H.}, \bibinfo{author}{Jin, Z.}, \bibinfo{year}{2026}b.
+\newblock \bibinfo{title}{{MindMelody}: A closed-loop {EEG}-driven system for
+  personalized music intervention}.
+\newblock \bibinfo{journal}{arXiv preprint arXiv:2605.01235v2} .
+
+\end{thebibliography}
